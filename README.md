@@ -9,3 +9,10 @@
  <ul>
   <li>Java</li>
  </ul>
+ <h1>주요기능</h1>
+ <ul>
+  <li>등록</li>
+  <li>취소</li>
+  <li>삭제</li>
+  <li>수정</li>
+ </ul>
